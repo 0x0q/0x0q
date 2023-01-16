@@ -38,7 +38,7 @@
         </p>
     </div>
     <div>
-        <h2 align="center"> ~ 🎵 𝓜𝔂 𝓙𝓪𝓶 🎵 ~ </h2>
+        <h2 align="center"> ~ 🎵 𝓒𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓟𝓵𝓪𝔂𝓲𝓷𝓰 🎵 ~ </h2>
         <div align="center">
             <a href="https://spotify-github-profile.vercel.app/api/view?uid=vd1lauovm8xmhbnrdc9db6odk&amp;redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=vd1lauovm8xmhbnrdc9db6odk&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=000000&amp;bar_color=09ff00&amp;bar_color_cover=true" alt="spotify-github-profile"></a>
         </div>
